@@ -1,0 +1,15 @@
+D:\C#\ODBC\SortedListDemo\bin\Debug\net6.0\SortedListDemo.exe
+D:\C#\ODBC\SortedListDemo\bin\Debug\net6.0\SortedListDemo.deps.json
+D:\C#\ODBC\SortedListDemo\bin\Debug\net6.0\SortedListDemo.runtimeconfig.json
+D:\C#\ODBC\SortedListDemo\bin\Debug\net6.0\SortedListDemo.dll
+D:\C#\ODBC\SortedListDemo\bin\Debug\net6.0\SortedListDemo.pdb
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.csproj.AssemblyReference.cache
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.AssemblyInfoInputs.cache
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.AssemblyInfo.cs
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.csproj.CoreCompileInputs.cache
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.dll
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\refint\SortedListDemo.dll
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.pdb
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\SortedListDemo.genruntimeconfig.cache
+D:\C#\ODBC\SortedListDemo\obj\Debug\net6.0\ref\SortedListDemo.dll
